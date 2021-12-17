@@ -39,4 +39,6 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
   background-color: #777;
 }
-
+.logo{
+   float: left;
+   margin-top: 10px;
