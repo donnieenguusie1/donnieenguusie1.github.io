@@ -1,6 +1,5 @@
 
 body {
-  background: url("https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1593&q=80");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -40,15 +39,7 @@ background-color: #777;
     color: white;
     position: relative;
     }
- body {
-    background: url("https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
+ 
   .header {
     font-family: serif;
     font-size: 30px;
@@ -80,24 +71,8 @@ td, th {
 tr:nth-child(even) {
   background-color: #00FFB3;
 }
-  body {
-    background: url("https://images.unsplash.com/photo-1459865264687-595d652de67e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
-  body {
-    background: url("https://images.unsplash.com/photo-1524012435847-659cf8c3d158?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
+ 
+ 
 
  
   dl {
@@ -115,47 +90,6 @@ tr:nth-child(even) {
     font-size: 40px;
     color: white;
   }
-  body {
-    background: url("https://images.unsplash.com/photo-1610201417828-29dd1173d62f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
- 
- body {
-    background: url("https://media.istockphoto.com/photos/the-red-chairs-picture-id967134678?b=1&k=20&m=967134678&s=170667a&w=0&h=TbrhCer1VgJMuAwpmEPv3xPE1EB6QpFwSZqcFuW0oyI=");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
-  
-  
-    background: url("https://media.istockphoto.com/photos/full-stadium-and-neoned-colorful-flashlights-background-picture-id1276444914?b=1&k=20&m=1276444914&s=170667a&w=0&h=FKHO_16rIS7zdUYBJ0yWMa5MkcAGvgnhDiKOztsbgzg=");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
- 
-  
- body {
-    background: url("https://images.unsplash.com/photo-1546608235-3310a2494cdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNvY2NlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-   
-}
 
   .list1 {
     font-size: 30px;
@@ -165,15 +99,7 @@ tr:nth-child(even) {
     left: 35%;
   }
  
-  body {
-    background: url("https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNvY2NlciUyMHN0YWRpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: black;
-    font-family: verdana;
-}
+ 
 
   .text {
     font-size: 30px;
