@@ -41,12 +41,8 @@ text-decoration: none;
 div.scrollmenu a:hover {
 background-color: #777;
 }
-.logo{
-float: left;
-margin-left: 25%;
-width: 5%;
- margin-top: 10px;
-}
+
+
     h2 {
     font-family: serif;
     color: black;
