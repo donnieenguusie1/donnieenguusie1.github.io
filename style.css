@@ -12,9 +12,6 @@
   font-size: 30px;
   color: white;
 }
-.logo {
- position: center;
-}
 
 p {
   font-size: 22px;
@@ -55,6 +52,6 @@ background-color: #777;
     color: black;
     position: relative;
     }
-div.logo{
+.logotjeee{
  float: left;
 }
