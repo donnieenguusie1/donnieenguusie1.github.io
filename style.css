@@ -388,4 +388,54 @@ td, th {
 tr:nth-child(even) {
   background-color: #00FFB3;
   }
+ body {
+    background: url("https://images.unsplash.com/photo-1546608235-3310a2494cdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNvY2NlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: verdana;
+   
+}
+  .header {
+    font-family: serif;
+    font-size: 30px;
+    color: white;
+    left: 50%;
+    text-align: center;
+}
+
+  .list1 {
+    font-size: 30px;
+    font-family: serif;
+    color: white;
+    position: relative;
+    left: 35%;
+  }
+  input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+  }
+  div.scrollmenu {
+  background-color: white;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+ .Button {
+
+
 
