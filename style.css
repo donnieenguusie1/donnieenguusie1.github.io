@@ -54,6 +54,6 @@ background-color: #777;
     color: black;
     position: relative;
     }
-logo.{
- float: right;
+div.logo{
+ float: left;
 }
