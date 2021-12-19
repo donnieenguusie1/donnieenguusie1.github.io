@@ -12,7 +12,9 @@
   font-size: 30px;
   color: white;
 }
-
+.logo {
+ align: center;
+}
 
 p {
   font-size: 22px;
