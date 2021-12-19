@@ -9,13 +9,6 @@ body {
   font-family: verdana;
 }
 
-
-
-input {
-  border: 0;
-  padding: 10px;
-  font-size: 18px;
-}
 div.scrollmenu {
 background-color: white;
 overflow: auto;
@@ -70,23 +63,7 @@ background-color: #777;
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
 
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
    table {
   font-family: serif;
   border-collapse: collapse;
@@ -112,40 +89,6 @@ tr:nth-child(even) {
     color: black;
     font-family: verdana;
 }
-
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
-    table {
-  font-family: serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-  background-color: #D2FFEE;
-}
-
-tr:nth-child(even) {
-  background-color: #00FFB3;
-}
   body {
     background: url("https://images.unsplash.com/photo-1524012435847-659cf8c3d158?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80");
     background-size: cover;
@@ -169,23 +112,7 @@ tr:nth-child(even) {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+ 
   dl {
     text-align: center;
     font-family: serif;
@@ -224,23 +151,7 @@ div.scrollmenu a:hover {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+ 
    table {
   font-family: serif;
   border-collapse: collapse;
@@ -280,23 +191,7 @@ tr:nth-child(even) {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+  
    table {
   font-family: serif;
   border-collapse: collapse;
@@ -336,23 +231,7 @@ tr:nth-child(even) {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+ 
    table {
   font-family: serif;
   border-collapse: collapse;
@@ -399,23 +278,7 @@ tr:nth-child(even) {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+ 
   body {
     background: url("https://images.unsplash.com/photo-1577223625816-7546f13df25d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNvY2NlciUyMHN0YWRpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
     background-size: cover;
@@ -439,23 +302,7 @@ div.scrollmenu a:hover {
     padding: 10px;
     font-size: 18px;
   }
-  div.scrollmenu {
-  background-color: white;
-  overflow: auto;
-  white-space: nowrap;
-}
-
-div.scrollmenu a {
-  display: inline-block;
-  color: black;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-
-div.scrollmenu a:hover {
-  background-color: #777;
-}
+ 
   .text {
     font-size: 30px;
     font-family: serif;
